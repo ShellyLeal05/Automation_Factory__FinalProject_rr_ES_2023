@@ -1,3 +1,5 @@
+// Código usado para testar a angulação individual de cada motor, de modo que eu setava a posição e observava como o motor se comportava.
+
 #include <Servo.h>
 
 Servo meuServo;  // Cria um objeto Servo para controlar um servo motor
