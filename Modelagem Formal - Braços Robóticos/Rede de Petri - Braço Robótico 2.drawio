@@ -1,0 +1,218 @@
+<mxfile host="app.diagrams.net" modified="2023-12-12T23:01:00.728Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 OPR/104.0.0.0" etag="Kir0YGdHqvIXzY626C7h" version="22.1.7" type="device">
+  <diagram name="Página-1" id="ALJv8owiA3gafbw0COQb">
+    <mxGraphModel dx="1249" dy="589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Cw8hgE9dJnpE8XeNJYBA-1" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rotation=15;" parent="1" vertex="1">
+          <mxGeometry x="210" y="160" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Cw8hgE9dJnpE8XeNJYBA-2" value="&lt;b&gt;BRAÇO DESATIVADO&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="210" y="240" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Cw8hgE9dJnpE8XeNJYBA-5" value="" style="line;strokeWidth=2;html=1;" parent="1" vertex="1">
+          <mxGeometry x="280" y="185" width="160" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="Cw8hgE9dJnpE8XeNJYBA-6" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
+          <mxGeometry x="460" y="160" width="20" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Cw8hgE9dJnpE8XeNJYBA-7" value="&lt;b&gt;ATIVAR BRAÇO&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="440" y="110" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Cw8hgE9dJnpE8XeNJYBA-8" value="" style="line;strokeWidth=2;html=1;" parent="1" vertex="1">
+          <mxGeometry x="500" y="185" width="160" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="Cw8hgE9dJnpE8XeNJYBA-10" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rotation=15;" parent="1" vertex="1">
+          <mxGeometry x="680.0023461417477" y="160.00234614174767" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Cw8hgE9dJnpE8XeNJYBA-11" value="&lt;b&gt;BRAÇO ROBOTICO&lt;br&gt;ATIVADO&lt;br&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="680" y="241.25" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Cw8hgE9dJnpE8XeNJYBA-12" value="" style="line;strokeWidth=2;html=1;" parent="1" vertex="1">
+          <mxGeometry x="500" y="185" width="160" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="5mtRRWDn6w6N6a1cOBZX-5" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
+          <mxGeometry x="835.77" y="161.25" width="20" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5mtRRWDn6w6N6a1cOBZX-8" value="" style="line;strokeWidth=2;html=1;rotation=0;" parent="1" vertex="1">
+          <mxGeometry x="756.64" y="195" width="60" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="5mtRRWDn6w6N6a1cOBZX-12" value="&lt;b&gt;SETAR POSIÇÃO INICIAL&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="766.64" y="252.91" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5mtRRWDn6w6N6a1cOBZX-22" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rotation=15;" parent="1" vertex="1">
+          <mxGeometry x="1038.2723461417477" y="181.2523461417477" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5mtRRWDn6w6N6a1cOBZX-23" value="" style="line;strokeWidth=2;html=1;rotation=0;" parent="1" vertex="1">
+          <mxGeometry x="868.27" y="206.25" width="160" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="5mtRRWDn6w6N6a1cOBZX-24" value="&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;POSIÇÃO SETADA&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1003.27" y="141.25" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5mtRRWDn6w6N6a1cOBZX-36" value="" style="line;strokeWidth=2;html=1;rotation=0;" parent="1" vertex="1">
+          <mxGeometry x="1105.77" y="206.25" width="60" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="5mtRRWDn6w6N6a1cOBZX-37" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
+          <mxGeometry x="1180.77" y="173.75" width="20" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="5mtRRWDn6w6N6a1cOBZX-38" value="&lt;b&gt;ABRIR GARRA - MOTOR GARRA &lt;br&gt;VAI DE 37°&amp;nbsp; PARA 79°&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1085.77" y="270" width="210" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5mtRRWDn6w6N6a1cOBZX-43" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rotation=15;" parent="1" vertex="1">
+          <mxGeometry x="1294.9123461417475" y="181.2523461417477" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5mtRRWDn6w6N6a1cOBZX-44" value="&lt;b&gt;GARRA ABERTA&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1264.9099999999999" y="151.25" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5mtRRWDn6w6N6a1cOBZX-52" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};rotation=0;" parent="1" vertex="1">
+          <mxGeometry x="1440" y="173.75000000000003" width="20" height="83.32" as="geometry" />
+        </mxCell>
+        <mxCell id="5mtRRWDn6w6N6a1cOBZX-53" value="" style="line;strokeWidth=2;html=1;rotation=-1;" parent="1" vertex="1">
+          <mxGeometry x="1211" y="204.66" width="69" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="5mtRRWDn6w6N6a1cOBZX-54" value="&lt;b&gt;LEVANTAR BRAÇO - MOTOR LEFT&lt;br&gt;DE 47° PARA 110°&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1330" y="270" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5mtRRWDn6w6N6a1cOBZX-55" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rotation=15;" parent="1" vertex="1">
+          <mxGeometry x="1550.0023461417477" y="181.2523461417477" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5mtRRWDn6w6N6a1cOBZX-56" value="&lt;b&gt;BRAÇO LEVANTADO&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1510" y="143.75" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5mtRRWDn6w6N6a1cOBZX-57" value="" style="line;strokeWidth=2;html=1;rotation=0;" parent="1" vertex="1">
+          <mxGeometry x="1370" y="204.66" width="60" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="5mtRRWDn6w6N6a1cOBZX-58" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};rotation=0;" parent="1" vertex="1">
+          <mxGeometry x="1710" y="178.00000000000006" width="20" height="83.32" as="geometry" />
+        </mxCell>
+        <mxCell id="5mtRRWDn6w6N6a1cOBZX-59" value="" style="line;strokeWidth=2;html=1;rotation=0;" parent="1" vertex="1">
+          <mxGeometry x="1475" y="204.66" width="65" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="5mtRRWDn6w6N6a1cOBZX-60" value="&lt;b&gt;GIRAR BRAÇO - MOTOR BASE&lt;br&gt;DE 0° PARA 95°&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1620" y="270" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5mtRRWDn6w6N6a1cOBZX-61" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rotation=15;" parent="1" vertex="1">
+          <mxGeometry x="1800.0023461417477" y="181.25234614174772" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5mtRRWDn6w6N6a1cOBZX-62" value="&lt;b&gt;BRAÇO POSIÇÃO&lt;br&gt;P/ ESTEIRA&lt;br&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1765" y="128" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5mtRRWDn6w6N6a1cOBZX-63" value="" style="line;strokeWidth=2;html=1;rotation=-1;" parent="1" vertex="1">
+          <mxGeometry x="1630" y="204.57" width="70" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="5mtRRWDn6w6N6a1cOBZX-64" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};rotation=0;" parent="1" vertex="1">
+          <mxGeometry x="2250" y="176.25000000000006" width="20" height="83.32" as="geometry" />
+        </mxCell>
+        <mxCell id="5mtRRWDn6w6N6a1cOBZX-66" value="&lt;b&gt;FECHAR PARCIALMENTE A GARRA - MOTOR GARRA&lt;br&gt;DE 79° PARA 60°&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="2095" y="270" width="330" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5mtRRWDn6w6N6a1cOBZX-67" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rotation=15;" parent="1" vertex="1">
+          <mxGeometry x="2370.0023461417477" y="187.9123461417476" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5mtRRWDn6w6N6a1cOBZX-68" value="&lt;b&gt;&amp;nbsp;GARRA PARCIALMENTE&lt;br&gt;FECHADA NO PACOTE&lt;br&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="2305" y="136.25" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5mtRRWDn6w6N6a1cOBZX-70" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};rotation=-180;" parent="1" vertex="1">
+          <mxGeometry x="2525.87" y="184.59000000000003" width="20" height="83.32" as="geometry" />
+        </mxCell>
+        <mxCell id="5mtRRWDn6w6N6a1cOBZX-71" value="" style="line;strokeWidth=2;html=1;rotation=0;" parent="1" vertex="1">
+          <mxGeometry x="2561.73" y="209.58999999999992" width="70" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="5mtRRWDn6w6N6a1cOBZX-72" value="" style="line;strokeWidth=2;html=1;rotation=0;" parent="1" vertex="1">
+          <mxGeometry x="2450" y="209.58999999999992" width="60" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="5mtRRWDn6w6N6a1cOBZX-73" value="&lt;b&gt;ROTACIONAR BRAÇO&lt;br&gt;&amp;nbsp;- MOTOR BASE DE 95°&lt;br&gt;VAI PARA 0°&lt;br&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="2455.87" y="271.2499999999999" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5mtRRWDn6w6N6a1cOBZX-74" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rotation=15;" parent="1" vertex="1">
+          <mxGeometry x="2651.7323461417477" y="192.50234614174764" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5mtRRWDn6w6N6a1cOBZX-75" value="&lt;b&gt;BRAÇO ROTACIONADO&lt;br&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="2594.14" y="151.24999999999994" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5mtRRWDn6w6N6a1cOBZX-82" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};rotation=-180;" parent="1" vertex="1">
+          <mxGeometry x="2819.14" y="177.51000000000016" width="20" height="83.32" as="geometry" />
+        </mxCell>
+        <mxCell id="5mtRRWDn6w6N6a1cOBZX-83" value="" style="line;strokeWidth=2;html=1;rotation=0;" parent="1" vertex="1">
+          <mxGeometry x="2740" y="210.41000000000003" width="70" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="5mtRRWDn6w6N6a1cOBZX-84" value="" style="line;strokeWidth=2;html=1;rotation=0;" parent="1" vertex="1">
+          <mxGeometry x="2850" y="212.91000000000003" width="60" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="5mtRRWDn6w6N6a1cOBZX-85" value="&lt;b&gt;ABAIXAR BRAÇO - MOTOR LEFT DE 110°&lt;br&gt;VAI PARA 55°&lt;br&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="2699.14" y="270" width="260" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5mtRRWDn6w6N6a1cOBZX-86" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rotation=15;" parent="1" vertex="1">
+          <mxGeometry x="2930.0023461417477" y="185.00234614174767" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5mtRRWDn6w6N6a1cOBZX-87" value="&lt;b&gt;BRAÇO ABAIXADO&lt;br&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="2895" y="151.24999999999997" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5mtRRWDn6w6N6a1cOBZX-88" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};rotation=0;" parent="1" vertex="1">
+          <mxGeometry x="1955" y="165.43000000000006" width="20" height="83.32" as="geometry" />
+        </mxCell>
+        <mxCell id="5mtRRWDn6w6N6a1cOBZX-89" value="" style="line;strokeWidth=2;html=1;rotation=0;" parent="1" vertex="1">
+          <mxGeometry x="1750" y="206.25" width="35" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="5mtRRWDn6w6N6a1cOBZX-90" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rotation=15;" parent="1" vertex="1">
+          <mxGeometry x="2089.1423461417476" y="185.0023461417477" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5mtRRWDn6w6N6a1cOBZX-93" value="&lt;b&gt;INCLINAR BRAÇO - MOTOR RIGHT&lt;br&gt;DE 0° PARA 25°&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1855.8600000000001" y="270" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5mtRRWDn6w6N6a1cOBZX-94" value="&lt;b&gt;BRAÇO&amp;nbsp; ENCLINADO&lt;br&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="2044.1399999999999" y="147.51" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5mtRRWDn6w6N6a1cOBZX-95" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};rotation=-180;" parent="1" vertex="1">
+          <mxGeometry x="3085.87" y="177.91" width="20" height="81.66" as="geometry" />
+        </mxCell>
+        <mxCell id="5mtRRWDn6w6N6a1cOBZX-96" value="" style="line;strokeWidth=2;html=1;rotation=0;" parent="1" vertex="1">
+          <mxGeometry x="3130" y="214.17000000000002" width="70" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="5mtRRWDn6w6N6a1cOBZX-97" value="" style="line;strokeWidth=2;html=1;rotation=0;" parent="1" vertex="1">
+          <mxGeometry x="3010" y="212.91" width="60" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="5mtRRWDn6w6N6a1cOBZX-98" value="&lt;b&gt;MOTOR GARRA DE 0°&lt;br&gt;VAI PARA 79°&lt;br&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="3015" y="269.99999999999994" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5mtRRWDn6w6N6a1cOBZX-99" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rotation=15;" parent="1" vertex="1">
+          <mxGeometry x="3225.0023461417477" y="185.0023461417477" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5mtRRWDn6w6N6a1cOBZX-100" value="&lt;b&gt;GARRA ABERTA&lt;br&gt;(pacote solto)&lt;br&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="3195" y="136.25" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5mtRRWDn6w6N6a1cOBZX-104" value="&lt;b&gt;DELAY 10S&lt;br&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="3365.0000000000005" y="270" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5mtRRWDn6w6N6a1cOBZX-106" value="" style="line;strokeWidth=2;html=1;rotation=0;" parent="1" vertex="1">
+          <mxGeometry x="2280" y="214.57" width="80" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="5mtRRWDn6w6N6a1cOBZX-107" value="" style="line;strokeWidth=2;html=1;rotation=0;" parent="1" vertex="1">
+          <mxGeometry x="2160" y="214.57" width="80" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="5mtRRWDn6w6N6a1cOBZX-109" value="" style="line;strokeWidth=2;html=1;rotation=0;" parent="1" vertex="1">
+          <mxGeometry x="1990" y="206.25" width="90.86" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="5mtRRWDn6w6N6a1cOBZX-110" value="" style="line;strokeWidth=2;html=1;rotation=0;" parent="1" vertex="1">
+          <mxGeometry x="1870" y="204.99999999999991" width="60" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="5mtRRWDn6w6N6a1cOBZX-113" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};rotation=-180;" parent="1" vertex="1">
+          <mxGeometry x="3400" y="181.25" width="20" height="81.66" as="geometry" />
+        </mxCell>
+        <mxCell id="5mtRRWDn6w6N6a1cOBZX-117" value="" style="line;strokeWidth=2;html=1;rotation=0;" parent="1" vertex="1">
+          <mxGeometry x="3315" y="209.59" width="70" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="5mtRRWDn6w6N6a1cOBZX-118" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3410" y="170" as="sourcePoint" />
+            <mxPoint x="710" y="150" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="3410" y="60" />
+              <mxPoint x="710" y="100" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
